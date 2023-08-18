@@ -2,7 +2,5 @@
 
 ## <p align="center"> Portfolio Project </p>
 
-## About Project
-
 ## Technology Used
 - HTML, CSS, Bootstrap and PHP Laravel
